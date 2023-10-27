@@ -1,4 +1,4 @@
-# Welcome to CTF Handbooks :wave:
+# Welcome to CTF Handbooks! :wave:
 
 ## :information_source: About
 
