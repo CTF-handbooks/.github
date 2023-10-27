@@ -2,7 +2,7 @@
 
 ## :information_source: About
 
-This organisation is a collection of handbooks for [Capture the Flag game]'s main server related tasks.
+This organisation is a collection of handbooks for [Capture the Flag game](https://github.com/MT-CTF) (main server) related tasks.
 
 ### :file_folder: Repositories
 
